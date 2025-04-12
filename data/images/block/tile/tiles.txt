@@ -1,0 +1,16 @@
+1 filled_tile
+f full_tile
+t top_corner_tile
+b bottom_corner_tile
+4 left_top_corner_tile
+5 right_top_corner_tile
+6 tile_5
+7 tile_4
+8 right_bottom_corner_tile
+9 left_bottom_corner_tile
+2 tile_2
+3 tile_3
+l left_tile
+r right_tile
+m tile_1
+$ real_full_tile

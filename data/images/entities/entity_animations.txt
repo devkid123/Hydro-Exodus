@@ -1,0 +1,14 @@
+player/idle/ 7;7;7;7;40 loop
+player/run/ 7;7;7;7 loop
+jump/idle/ 7;7;7;7;7 loop
+menu/idle/ 7;7;7;7 loop
+enemy/idle/ 7;7;7;7;7 loop
+enemy2/idle/ 7;7;7;7;7 loop
+swoosh/swoosh/ 12;12;12;12 no loop
+swoosh/idle/ 7 loop
+boss/idle/ 30;7;7;7;7 loop
+boss/death/ 10;10;10;10;10;10;10;10;10 no loop
+boss/death2/ 7;7 loop
+portal/idle/ 7;7;7;7 loop
+r_beem/idle/ 7;7;7;7;7;7;7 no loop
+p_beem/idle/ 7;7;7;7;7;7;7 no loop
